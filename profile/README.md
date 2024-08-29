@@ -1,6 +1,6 @@
 ### Welcome to  Saikō Technology 👋
 
-A Software Consultancy focused on Cloud, Event Driven Systems & eSports.
+A Software Consultancy focused on Cloud-native Software, Event-Driven Systems & eSports Tech.
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://saiko.tech/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/74083626/)
