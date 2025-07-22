@@ -13,4 +13,4 @@ Available for projects around the following (and more) technologies and fields:
 - Database Design - SQL, NoSQL, Firestore, Postgres & more
 - eSports - CS:GO Demo Parsing, Cloud Server Hosting etc.
 
-📫 Reach us via **[markus@saiko.tech](mailto:mark@saiko.tech)**
+📫 Reach us via **[markus@saiko.tech](mailto:markus@saiko.tech)**
